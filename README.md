@@ -1,2 +1,2 @@
 # LPServer
-Long Pulling Server (php + libevent)
+Long Polling Server (php + libevent)
